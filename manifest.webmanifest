@@ -1,7 +1,7 @@
 {
-  "short_name": "Period Tracker",
-  "name": "Period Tracker",
-  "description": "Period Tracker",
+  "short_name": "Liz Tracker",
+  "name": "Liz Tracker",
+  "description": "Liz Tracker",
   "icons": [
     {
       "src": "images/icon.svg",
