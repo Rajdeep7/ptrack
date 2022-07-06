@@ -1,6 +1,6 @@
 # Period Tracker
 
-Live demo [https://electricg.github.io/period-tracker/](https://electricg.github.io/period-tracker/)
+Live demo [https://rajdeep7.github.io/period-tracker/](https://rajdeep7.github.io/period-tracker/)
 
 ## Why
 
